@@ -1,6 +1,4 @@
-var idade
-
-idade = [18 , 12 , 15 , 14 , 13 , 10];
+var idade = [18 , 12 , 15 , 14 , 13 , 10];
 
 var crianca = [];
 
